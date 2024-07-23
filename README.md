@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil636" alt="nikhil636" /></a> </p>
 
-- 🔭 I’m currently working on **Anixon**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Dsa, Springboot**
+- 🌱 I’m currently learning **Dsa, golang and sql**
 
 - 📫 How to reach me **nbhartiya16@gmail.com**
 

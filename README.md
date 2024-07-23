@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Dsa, Springboot**
 
-- 📫 How to reach me **nbhartiya@gmail.com**
+- 📫 How to reach me **nbhartiya16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
